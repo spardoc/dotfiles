@@ -1,0 +1,7 @@
+[dock]
+# Reduce la opacidad del fondo a 0 (totalmente transparente)
+background_opacity = 0
+
+# Desactiva los bordes para que no quede un contorno fantasma
+border_width = 0.0
+

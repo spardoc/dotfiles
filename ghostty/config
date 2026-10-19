@@ -1,0 +1,30 @@
+# --- Fuente ---
+font-size = 13
+font-style = Regular
+font-style-italic = Italic
+font-style-bold = Bold
+font-style-bold-italic = Bold Italic
+
+window-padding-x = 8
+window-padding-y = 8
+
+# --- Fondo y Transparencia ---
+background = #1a1b26
+background-opacity = 0.92
+
+# Habilita el blur (depende del compositor de Hyprland)
+background-blur = true
+
+# --- Cursor ---
+cursor-style = block
+cursor-color = #ad8ee6
+
+theme = catppuccin-mocha
+
+# Ajusta el interlineado aumentando el tamaño vertical de las celdas
+adjust-cell-height = 10%
+
+shell-integration = none
+
+confirm-close-surface = false
+
